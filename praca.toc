@@ -1,17 +1,17 @@
 \contentsline {chapter}{Wst\IeC {\k e}p}{2}
 \contentsline {chapter}{\numberline {1}Subkultura heavymetalowa}{3}
 \contentsline {section}{\numberline {1.1}Czym jest subkultura?}{3}
-\contentsline {section}{\numberline {1.2}Geneza subkultury heavymetalowej}{4}
-\contentsline {section}{\numberline {1.3}Historia heavy metalu na \IeC {\'s}wiecie}{4}
-\contentsline {section}{\numberline {1.4}Historia heavy metalu w Polsce}{4}
-\contentsline {chapter}{\numberline {2}Wizerunek subkultury heavymetalowej w mediach}{5}
-\contentsline {section}{\numberline {2.1}Definicja wizerunku}{5}
-\contentsline {section}{\numberline {2.2}Muzyka heavymetalowa i jej fani w mediach zagranicznych}{5}
-\contentsline {section}{\numberline {2.3}Muzyka heavymetalowa i jej fani w mediach polskich}{5}
-\contentsline {section}{\numberline {2.4}Heavy metal w social media}{5}
-\contentsline {chapter}{\numberline {3}Badanie wizerunku subkultury heavymetalowej}{6}
-\contentsline {section}{\numberline {3.1}Przedmiot bada\IeC {\'n} i cele badawcze}{6}
-\contentsline {section}{\numberline {3.2}Metody i narz\IeC {\k e}dzia badawcze}{6}
-\contentsline {section}{\numberline {3.3}Analiza wynik\IeC {\'o}w badania}{6}
-\contentsline {chapter}{Zako\IeC {\'n}czenie}{7}
-\contentsline {chapter}{Bibliografia}{8}
+\contentsline {section}{\numberline {1.2}Geneza subkultury heavymetalowej}{5}
+\contentsline {section}{\numberline {1.3}Historia heavy metalu na \IeC {\'s}wiecie}{5}
+\contentsline {section}{\numberline {1.4}Historia heavy metalu w Polsce}{5}
+\contentsline {chapter}{\numberline {2}Wizerunek subkultury heavymetalowej w mediach}{6}
+\contentsline {section}{\numberline {2.1}Definicja wizerunku}{6}
+\contentsline {section}{\numberline {2.2}Muzyka heavymetalowa i jej fani w mediach zagranicznych}{6}
+\contentsline {section}{\numberline {2.3}Muzyka heavymetalowa i jej fani w mediach polskich}{6}
+\contentsline {section}{\numberline {2.4}Heavy metal w social media}{6}
+\contentsline {chapter}{\numberline {3}Badanie wizerunku subkultury heavymetalowej}{7}
+\contentsline {section}{\numberline {3.1}Przedmiot bada\IeC {\'n} i cele badawcze}{7}
+\contentsline {section}{\numberline {3.2}Metody i narz\IeC {\k e}dzia badawcze}{7}
+\contentsline {section}{\numberline {3.3}Analiza wynik\IeC {\'o}w badania}{7}
+\contentsline {chapter}{Zako\IeC {\'n}czenie}{8}
+\contentsline {chapter}{Bibliografia}{9}
