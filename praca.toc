@@ -6,8 +6,8 @@
 \contentsline {section}{\numberline {1.4}Historia heavy metalu w Polsce}{5}
 \contentsline {chapter}{\numberline {2}Wizerunek subkultury heavymetalowej w mediach}{6}
 \contentsline {section}{\numberline {2.1}Definicja wizerunku}{6}
-\contentsline {section}{\numberline {2.2}Muzyka heavymetalowa i jej fani w mediach zagranicznych}{6}
-\contentsline {section}{\numberline {2.3}Muzyka heavymetalowa i jej fani w mediach polskich}{6}
+\contentsline {section}{\numberline {2.2}Muzyka heavymetalowa i jej fani w mediach \penalty -\@M zagranicznych}{6}
+\contentsline {section}{\numberline {2.3}Muzyka heavymetalowa i jej fani w mediach \penalty -\@M polskich}{6}
 \contentsline {section}{\numberline {2.4}Heavy metal w social media}{6}
 \contentsline {chapter}{\numberline {3}Badanie wizerunku subkultury heavymetalowej}{7}
 \contentsline {section}{\numberline {3.1}Przedmiot bada\IeC {\'n} i cele badawcze}{7}
