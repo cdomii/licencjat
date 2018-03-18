@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  11 MAR 2018 23:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  17 MAR 2018 23:31
 entering extended mode
 **./praca.tex
 (praca.tex
@@ -481,7 +481,7 @@ LaTeX Font Info:    External font `plex10' loaded for size
 ] [4] [5] [6] [7] [8]
 Rozdzia\PlPrIeC {\l } 2.
 
-Overfull \hbox (2.42592pt too wide) in paragraph at lines 75--75
+Overfull \hbox (2.42592pt too wide) in paragraph at lines 80--80
 []\T1/ptm/b/n/17.28 Muzyka he-avy-me-ta-lo-wa i jej fa-ni w me-diach pol-
  []
 
@@ -503,12 +503,12 @@ Here is how much of TeX's memory you used:
  4621 multiletter control sequences out of 15000+200000
  45598 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,8n,24p,1762b,188s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 23i,8n,24p,1828b,188s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on praca.pdf (13 pages, 68488 bytes).
+Output written on praca.pdf (13 pages, 69616 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
