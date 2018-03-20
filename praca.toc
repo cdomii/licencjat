@@ -2,16 +2,16 @@
 \contentsline {chapter}{\numberline {1}Subkultura heavymetalowa}{3}
 \contentsline {section}{\numberline {1.1}Czym jest subkultura?}{3}
 \contentsline {section}{\numberline {1.2}Geneza subkultury heavymetalowej}{5}
-\contentsline {section}{\numberline {1.3}Historia heavy metalu na \IeC {\'s}wiecie}{7}
-\contentsline {section}{\numberline {1.4}Historia heavy metalu w Polsce}{8}
-\contentsline {chapter}{\numberline {2}Wizerunek subkultury heavymetalowej w mediach}{9}
-\contentsline {section}{\numberline {2.1}Definicja wizerunku}{9}
-\contentsline {section}{\numberline {2.2}Muzyka heavymetalowa i jej fani w mediach zagranicznych}{9}
-\contentsline {section}{\numberline {2.3}Muzyka heavymetalowa i jej fani w mediach polskich}{9}
-\contentsline {section}{\numberline {2.4}Heavy metal w social media}{9}
-\contentsline {chapter}{\numberline {3}Badanie wizerunku subkultury heavymetalowej}{10}
-\contentsline {section}{\numberline {3.1}Przedmiot bada\IeC {\'n} i cele badawcze}{10}
-\contentsline {section}{\numberline {3.2}Metody i narz\IeC {\k e}dzia badawcze}{10}
-\contentsline {section}{\numberline {3.3}Analiza wynik\IeC {\'o}w badania}{10}
-\contentsline {chapter}{Zako\IeC {\'n}czenie}{11}
-\contentsline {chapter}{Bibliografia}{12}
+\contentsline {section}{\numberline {1.3}Historia heavy metalu na \IeC {\'s}wiecie}{8}
+\contentsline {section}{\numberline {1.4}Historia heavy metalu w Polsce}{10}
+\contentsline {chapter}{\numberline {2}Wizerunek subkultury heavymetalowej w mediach}{11}
+\contentsline {section}{\numberline {2.1}Definicja wizerunku}{11}
+\contentsline {section}{\numberline {2.2}Muzyka heavymetalowa i jej fani w mediach zagranicznych}{11}
+\contentsline {section}{\numberline {2.3}Muzyka heavymetalowa i jej fani w mediach polskich}{11}
+\contentsline {section}{\numberline {2.4}Heavy metal w social media}{11}
+\contentsline {chapter}{\numberline {3}Badanie wizerunku subkultury heavymetalowej}{12}
+\contentsline {section}{\numberline {3.1}Przedmiot bada\IeC {\'n} i cele badawcze}{12}
+\contentsline {section}{\numberline {3.2}Metody i narz\IeC {\k e}dzia badawcze}{12}
+\contentsline {section}{\numberline {3.3}Analiza wynik\IeC {\'o}w badania}{12}
+\contentsline {chapter}{Zako\IeC {\'n}czenie}{13}
+\contentsline {chapter}{Bibliografia}{14}
