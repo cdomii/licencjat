@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  25 MAR 2018 00:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  27 MAR 2018 18:41
 entering extended mode
 **./praca.tex
 (praca.tex
@@ -478,22 +478,28 @@ LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <5> on input line 28.
 [3
 
-] [4] [5] [6] [7] [8] [9] [10] [11] [12]
+] [4] [5] [6] [7] [8] [9] [10] [11]
+Overfull \hbox (0.31934pt too wide) in paragraph at lines 89--91
+[]\T1/ptm/m/n/12 Heavy me-tal z ma-in-stre-amo-we-go nur-tu mu-zy-ki znik-n¡ª p
+o od-nie-sio-nym przez
+ []
+
+[12] [13]
 Rozdzia\PlPrIeC {\l } 2.
 
-Overfull \hbox (2.42592pt too wide) in paragraph at lines 95--95
+Overfull \hbox (2.42592pt too wide) in paragraph at lines 100--100
 []\T1/ptm/b/n/17.28 Muzyka he-avy-me-ta-lo-wa i jej fa-ni w me-diach pol-
  []
 
-[13
+[14
 
 ]
 Rozdzia\PlPrIeC {\l } 3.
-[14
-
-] [15
+[15
 
 ] [16
+
+] [17
 
 ] (praca.aux) ) 
 Here is how much of TeX's memory you used:
@@ -508,9 +514,9 @@ Here is how much of TeX's memory you used:
 gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on praca.pdf (17 pages, 80889 bytes).
+Output written on praca.pdf (18 pages, 84024 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
+ 73 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
