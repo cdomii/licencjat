@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  6 APR 2018 17:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  6 APR 2018 23:35
 entering extended mode
 **./praca.tex
 (praca.tex
@@ -484,28 +484,28 @@ Overfull \hbox (0.31934pt too wide) in paragraph at lines 102--104
 o od-nie-sio-nym przez
  []
 
-[13] [14] [15]
+[13] [14] [15] [16]
 Rozdzia\PlPrIeC {\l } 2.
-[16
+[17
 
 ]
-Overfull \hbox (2.779pt too wide) in paragraph at lines 124--125
+Overfull \hbox (2.779pt too wide) in paragraph at lines 128--129
 []\T1/ptm/m/n/12 Postawy, za-cho-wa-nia, styl ko-mu-ni-ko-wa-nia si¦, mo-wa cia
 -ªa i wy-gl¡d ze-wn¦trz-
  []
 
-[17]
-Overfull \hbox (2.42592pt too wide) in paragraph at lines 130--130
+[18]
+Overfull \hbox (2.42592pt too wide) in paragraph at lines 134--134
 []\T1/ptm/b/n/17.28 Muzyka he-avy-me-ta-lo-wa i jej fa-ni w me-diach pol-
  []
 
-[18]
+[19]
 Rozdzia\PlPrIeC {\l } 3.
-[19
+[20
 
-] [20
+] [21] [22
 
-] [21
+] [23
 
 ] (praca.aux) ) 
 Here is how much of TeX's memory you used:
@@ -520,9 +520,9 @@ Here is how much of TeX's memory you used:
 gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on praca.pdf (22 pages, 100263 bytes).
+Output written on praca.pdf (24 pages, 106498 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
+ 92 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
