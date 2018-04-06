@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  3 APR 2018 14:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  6 APR 2018 17:46
 entering extended mode
 **./praca.tex
 (praca.tex
@@ -484,34 +484,34 @@ Overfull \hbox (0.31934pt too wide) in paragraph at lines 102--104
 o od-nie-sio-nym przez
  []
 
-[13] [14]
+[13] [14] [15]
 Rozdzia\PlPrIeC {\l } 2.
-[15
+[16
 
 ]
-Overfull \hbox (2.779pt too wide) in paragraph at lines 120--121
+Overfull \hbox (2.779pt too wide) in paragraph at lines 124--125
 []\T1/ptm/m/n/12 Postawy, za-cho-wa-nia, styl ko-mu-ni-ko-wa-nia si¦, mo-wa cia
 -ªa i wy-gl¡d ze-wn¦trz-
  []
 
-[16]
-Overfull \hbox (2.42592pt too wide) in paragraph at lines 126--126
+[17]
+Overfull \hbox (2.42592pt too wide) in paragraph at lines 130--130
 []\T1/ptm/b/n/17.28 Muzyka he-avy-me-ta-lo-wa i jej fa-ni w me-diach pol-
  []
 
-[17]
+[18]
 Rozdzia\PlPrIeC {\l } 3.
-[18
-
-] [19
+[19
 
 ] [20
+
+] [21
 
 ] (praca.aux) ) 
 Here is how much of TeX's memory you used:
  1073 strings out of 493312
  11170 string characters out of 3138891
- 66141 words of memory out of 3000000
+ 67141 words of memory out of 3000000
  4621 multiletter control sequences out of 15000+200000
  45598 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -520,9 +520,9 @@ Here is how much of TeX's memory you used:
 gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on praca.pdf (21 pages, 97124 bytes).
+Output written on praca.pdf (22 pages, 100263 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
+ 86 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
