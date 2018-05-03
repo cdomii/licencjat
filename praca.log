@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  25 APR 2018 23:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  2 MAY 2018 17:29
 entering extended mode
 **./praca.tex
 (praca.tex
@@ -595,7 +595,19 @@ h-zespolow-wedlug-zagranicznego-
 Rozdzia\PlPrIeC {\l } 2.
 [15
 
-] [16] [17] [18]
+] [16]
+Underfull \hbox (badness 3514) in paragraph at lines 153--153
+[][]\T1/ptm/m/n/10 M. Chu-dzik, \T1/ptm/m/it/10 Wi-zy-ta w pol-skim Li-ver-po-o
+lu. Ra-dek Chmiel -- ki-bic ro-ku.\T1/ptm/m/n/10 , do-st¦p-ne przez:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
+\T1/ptm/m/n/10 https://sportowefakty.wp.pl/pilka-nozna/752208/wizyta-w-polskim-
+liverpoolu-radek-chmiel-kibic-roku,
+ []
+
+[17] [18]
 Rozdzia\PlPrIeC {\l } 3.
 [19
 
@@ -616,7 +628,7 @@ Here is how much of TeX's memory you used:
 gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on praca.pdf (23 pages, 113634 bytes).
+Output written on praca.pdf (23 pages, 115652 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
