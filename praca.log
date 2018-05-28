@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  13 MAY 2018 17:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  28 MAY 2018 02:35
 entering extended mode
 **./praca.tex
 (praca.tex
@@ -467,24 +467,33 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\underscore\underscore.sty"
 Package: underscore 2006/09/13
 LaTeX Info: Redefining \_ on input line 42.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen111
+\extrarowheight=\dimen112
+\NC@list=\toks18
+\extratabsurround=\skip43
+\backup@length=\skip44
 ) (praca.aux)
 \openout1 = `praca.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 21.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
@@ -523,36 +532,36 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 22.
-LaTeX Font Info:    Try loading font information for OML+plm on input line 22.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 23.
+LaTeX Font Info:    Try loading font information for OML+plm on input line 23.
 (C:\Users\Dominika\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 22.
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 23.
 
 
 (C:\Users\Dominika\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 22.
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 23.
 
 
 (C:\Users\Dominika\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <14.4> on input line 22.
+(Font)              <14.4> on input line 23.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10> on input line 22.
+(Font)              <10> on input line 23.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <7> on input line 22.
+(Font)              <7> on input line 23.
 
 [1
 
 
 {C:/Users/Dominika/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 23.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 24.
 
 (praca.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
@@ -574,19 +583,19 @@ LaTeX Font Info:    External font `plex10' loaded for size
 ]
 Rozdzia\PlPrIeC {\l } 1.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 32.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 33.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <5> on input line 33.
+(Font)              <5> on input line 34.
 [3
 
 ] [4] [5] [6]
-Overfull \hbox (7.00325pt too wide) in paragraph at lines 76--77
+Overfull \hbox (7.00325pt too wide) in paragraph at lines 77--78
 []\T1/ptm/m/n/12 Charakterystyczne dla kon-cer-tów he-avy-me-ta-lo-wych s¡ po-d
 ej-mo-wa-ne przez ich uczest-
  []
 
 [7] [8] [9] [10] [11] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 125--125
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
 \T1/ptm/m/n/10 https://www.antyradio.pl/Muzyka/Rock-News/31-najlepszych-polskic
 h-zespolow-wedlug-zagranicznego-
  []
@@ -596,13 +605,13 @@ Rozdzia\PlPrIeC {\l } 2.
 [15
 
 ] [16] [17] [18]
-Underfull \hbox (badness 3514) in paragraph at lines 160--160
+Underfull \hbox (badness 3514) in paragraph at lines 161--161
 [][]\T1/ptm/m/n/10 M. Chu-dzik, \T1/ptm/m/it/10 Wi-zy-ta w pol-skim Li-ver-po-o
 lu. Ra-dek Chmiel -- ki-bic ro-ku.\T1/ptm/m/n/10 , do-st¦p-ne przez:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--160
+Underfull \hbox (badness 10000) in paragraph at lines 161--161
 \T1/ptm/m/n/10 https://sportowefakty.wp.pl/pilka-nozna/752208/wizyta-w-polskim-
 liverpoolu-radek-chmiel-kibic-roku,
  []
@@ -611,26 +620,41 @@ liverpoolu-radek-chmiel-kibic-roku,
 Rozdzia\PlPrIeC {\l } 3.
 [21
 
-] [22] [23
+]
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+[]|\T1/ptm/m/n/12 Liczba
+ []
 
-] [24
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+[]|\T1/ptm/m/n/12 Liczba
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+[]|\T1/ptm/m/n/12 Liczba
+ []
+
+[22] [23] [24] [25
+
+] [26
 
 ] (praca.aux) ) 
 Here is how much of TeX's memory you used:
- 1609 strings out of 493312
- 19315 string characters out of 3138891
- 81595 words of memory out of 3000000
- 5131 multiletter control sequences out of 15000+200000
+ 1656 strings out of 493312
+ 19846 string characters out of 3138891
+ 90298 words of memory out of 3000000
+ 5176 multiletter control sequences out of 15000+200000
  48446 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,8n,24p,2163b,220s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 23i,10n,24p,2163b,220s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on praca.pdf (25 pages, 123137 bytes).
+Output written on praca.pdf (27 pages, 129492 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
+ 102 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
