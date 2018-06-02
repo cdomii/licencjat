@@ -8,8 +8,13 @@
 \setlength{\parindent}{0.8cm}
 \linespread{1.3}
 \usepackage{times}
+\usepackage{bchart}
 \usepackage{underscore}
+\usepackage{xcolor}
 \usepackage{array}
+\usepackage{pgf-pie}
+\usepackage{pgfplots}
+\pgfplotsset{width=12cm,compat=newest}
 \interfootnotelinepenalty=10000
 \raggedbottom
 
@@ -189,14 +194,118 @@ Badanie zostało przeprowadzone przy użyciu kwestionariuszy składających się
 
 Pierwsze z pytań wymagało od respondentów scharakteryzowania fanów muzyki metalowej, a kolejne stanowiły próbę pogłębienia tematu poprzez ustalenie, kto w rozumieniu ankietowanych może być członkiem subkultury. Poruszone zostały kwestie wieku metalowców, a także ich wyglądu zewnętrznego -- charakterystycznych elementów, które wyróżniają ich na tle innych osób i stanowią podstawę do ich rozpoznania. Kwestionariusz zakładał również poznanie statusu społecznego przeciętnego metalowca poprzez pytanie o jego karierę zawodową oraz sprawdzał, jaki styl życia zdaniem ankietowanych prowadzą fani muzyki metalowej.
 
-Ankieta została rozdystrybuowana do respondentów przy pomocy internetu i platformy Google Forms. Badanie przeprowadzono w maju 2018 roku i udział w nim brało 70 respondentów. Ankietowani to osoby spomiędzy 16 a 60 roku życia. Przeważała grupa mieszcząca się w przedziale wiekowym X-Y. W badaniu wzięło udział trzydziestu mężczyzn (43 proc. ankietowanych) oraz czterdzieści (57 proc. ankietowanych) kobiet. 
+Ankieta została rozdystrybuowana do respondentów przy pomocy internetu i platformy Google Forms. Badanie przeprowadzono w maju 2018 roku i udział w nim brało 70 respondentów. Ankietowani to osoby spomiędzy 16 a 60 roku życia. Istotnym aspektem badania był dobór przypadkowych osób różniących się od siebie pod względem doświadczeń i światów przeżyć. 
 
 \section{Analiza wyników badania}
 Poniżej zostały zaprezentowane pytania, które znalazły się w kwestionariuszu wraz z odpowiedziami, jakich udzielali respondenci. Odpowiedzi zamieszczone w tabelach to frazy, których badani używali najczęściej -- słowa i wyrażenia stanowiące duży procent udzielonych odpowiedzi, oraz te, które miały niebagatelny wpływ na wyniki przeprowadzonych badań. 
 
-Z pyt. 4 wynika, że respondenci mają wspólną wizję wyglądu zewnętrznego uczestnika subkultury metalowej. 47 ankietowanych podaje ciemne ubrania i kolor czarny jako fundamentalną cechę wyglądu metalowca. Uwagę respondentów zdaje się także przyciągać charakterystyczne, wysokie obuwie metalowców. Zaprojektowane jako buty robocze glany, jedynie w obrębie subkultury funkcjonują jako obuwie codzienne. W połączeniu z czarnym strojem, stanowią bazę stylu heavymetalowego.
+W badaniu wzięło udział trzydziestu mężczyzn (43 proc. ankietowanych) oraz czterdzieści (57 proc. ankietowanych) kobiet [patrz: Rysunek \ref{Wykres1}] Najliczniejszą grupą były osoby w wieku dwudziestu trzech lat. Osoby mieszczące się w przedziale wiekowym 20--25 lat stanowiły 44,3 proc. respondentów [patrz: Rysunek \ref{Wykr}. 18,6 proc. to ankietowani poniżej dwudziestego roku życia. Najmniej liczną grupą respondentów były osoby spomiędzy 34 a 42 roku życia. 
+
+\newpage
+\begin{figure}[!htb]
+\centering
+\begin{tikzpicture}
+\pie[text = inside, rotate=90, color ={orange!20, teal!30}]
+    {43/Mężczyzna, 57/Kobieta}
+\end{tikzpicture}
+\caption{Procentowy podział respondentów ze względu na płeć}
+\label{Wykres1}
+\end{figure}
+
+\begin{figure}[!htb]
+     \centering
+     \pgfplotstableread[row sep=\\,col sep=&]{
+        interval & carT \\
+        16-19 & 18.6  \\
+        20-25 & 44.3 \\
+        26-33 & 15.7 \\
+        34-42 & 10 \\
+        43-60 & 11.4 \\
+     }\mydata
+
+      \begin{tikzpicture}
+          \begin{axis}[
+              title=,
+              ybar,
+              bar width=35pt,
+              width=0.8\textwidth,
+              ymax=50,
+              ylabel=Procent respondentów \%,
+              xlabel=Przedział wiekowy,
+              symbolic x coords={16-19,20-25,26-33,34-42,43-60},
+              xtick=data
+              ]
+              \addplot[fill=teal!30] table[x=interval,y=carT]{\mydata};
+          \end{axis}
+      \end{tikzpicture}
+     \caption{Procentowy podział respondentów ze względu na wiek}
+     \label{Wykr}
+    \end{figure}
+
+Odpowiedzi udzielone na pytanie o to, jaki jest uczestników subkultury metalowej, są zróżnicowane. Respondenci najczęściej odwoływali się do rozrywkowej osobowości metalowców -- cecha "szalony" pojawiła się aż 13 razy [patrz: Tabela \ref{table:1}]. Nie sposób jednak stwierdzić kontekstu, w jakim wypowiadali się ankietowani, którzy udzielili tej odpowiedzi -- w zależności od interpretacji znaczenia słowa, ten przymiot można uznać zarówno za negatywną, jak i pozytywną cechę osobowości. Wśród osób, które wymieniały tę cechę, znaleźli się respondenci, którzy najczęściej przywoływali muzyczną pasję metalowców. 
+
+Dwunastu ankietowanych kojarzy metalowców z osobami "ubranymi na czarno", nieco mniej z posiadaczami długich włosów. Być może wynika to z niewiedzy respondentów na temat tego, jaki jest metalowiec lub też z ich powierzchownej oceny uczestników subkultury metalowej.  Spośród przytaczanych tu respondentów, trzynastu przyznało, że zna fanów muzyki metalowej. Zatem bazując na udzielonych przez nich odpowiedziach, zasadne wydawałoby się podejrzenie, że owi metalowcy nie znajdują się w najbliższym kręgu ich znajomych. 
+
+Niewykluczone również, że w rozumieniu ankietowanych, w znaczącym stopniu to nie osobowość, a wygląd zewnętrzny świadczy o przynależności do subkultury. Na 160 odpowiedzi, 8 z nich dotyczyło niechlujnego wyglądu metalowców, przy czym znaczna większość tych odpowiedzi, dosadnie zakładała, iż metalowiec jest "brudny". Częściej do takiego wniosku dochodzili mężczyźni -- na osiem osób, pięciu mężczyzn przyznaje, że metalowcy są zaniedbani. Prezentowane przez ankietowanych podejście świadczyć może o posiadanych uprzedzeniach, wierze w stereotypy i negatywnym stosunku do uczestników subkultury metalowej. 
+
 
 \begin{table}
+\begin{tabular}{ m{23em} | m{5em} } 
+\textbf{Jaki jest metalowiec?
+} & Liczba odpowiedzi \\
+\hline
+szalony	& 13 \\
+ubrany na czarno & 12 \\
+mroczny	& 10\\
+introwertyk & 9\\
+inne & 9\\
+zamknięty w sobie & 8\\
+brudny/zaniedbany &	8\\
+muzykalny & 8\\
+charakterystyczny & 8\\
+sympatyczny	& 7\\
+długowłosy	& 7\\
+otwarty	& 7\\
+normalny & 6\\
+agresywny & 6\\
+inny & 5\\
+inteligentny & 5\\
+kreatywny & 4\\
+wyluzowany & 4\\
+dziwny	& 4\\
+normalny & 4\\
+zbuntowany & 3\\
+opanowany & 3\\
+pomocny	& 3\\
+samotny	& 3\\
+głośny & 2\\
+ponury & 2\\
+\end{tabular} 
+\caption{Jaki jest metalowiec? -- najczęstsze odpowiedzi}
+\label{table:1}
+\end{table}
+
+
+Niemniej niż 9 osób uważa, jakoby metalowcy byli introwertykami, a obok tej cechy niemal równie często wymieniane jest "zamknięcie się w sobie".  Respondenci zwykli uważać, że do subkultury przynależą osoby skryte, które dystansują się od świata. Z ich wyobrażeń jasno rysuje się tendencja do klasyfikowania metalowca jako jednostki  nietypowej, odmiennej od reszty społeczeństwa. Badani zwykli odwoływać się do odrębności metalowców, ich dziwności czy też potrzeby wyróżnienia się i oryginalności. Rzadziej pojawia się także stwierdzenie o buncie wobec czegoś, najpewniej wobec świata i przyjętych norm. 
+
+Dziesięć razy pada stereotypowe stwierdzenie, że metalowcy to osoby mroczne. Wśród ankietowanych, którzy udzielili tej odpowiedzi, jeden z nich konstatuje, że metalowcy mają trudności z opanowaniem gniewu. Jego zdanie podziela pięć innych osób, które jako cechę charakterystyczną metalowców wymieniają "agresywność" lub "wybuchowość". W opozycji do tych odpowiedzi, siedmiu ankietowanych przyznało, że uważa pasjonatów muzyki metalowej za osoby sympatyczne i otwarte, a trzech innych za ludzi pomocnych. 
+
+Respondenci przyznają, że w kręgu ich znajomych znajdują się osoby przynależące do subkultury metalowej. Ponad połowa ankietowanych (62.9 proc) na pytanie, czy zna Pan/Pani członków subkultury metalowej, odpowiedziała "Tak" [patrz: Rysunek 3.2]. Choć obecnie coraz częściej mówi się o zanikającym trendzie przynależności do subkultur, bardzo duży odsetek respondentów przyznaje, że w kręgu ich znajomych znajdują się osoby, które uczestniczą w subkulturze metalowej. Zarówno ponad połowa respondentów płci żeńskiej, jak i męskiej, deklaruje znajomość metalowców. Jednak to kobiety na zadane pytanie, częściej wybierały odpowiedź twierdzącą -- 27 spośród 40 ankietowanych kobiet.
+
+\begin{figure}[!htb]
+\centering
+\begin{tikzpicture}
+\pie[text = inside, rotate=90, color ={orange!20, pink!60, teal!30}]
+    {21.4/Nie, 15.7/Może, 62.9/Tak}
+\end{tikzpicture}
+\label{Wykres:2}
+\caption{Czy zna Pan/Pani członków subkultury metalowej? -- odpowiedzi}
+\end{figure}
+
+Z pyt. 4 wynika, że respondenci mają wspólną wizję wyglądu zewnętrznego uczestnika subkultury metalowej. Czterdziestu siedmiu ankietowanych podaje ciemne ubrania i kolor czarny jako fundamentalną cechę wyglądu metalowca [patrz: Tabela \ref{table:2}]. Uwagę respondentów zdaje się także przyciągać charakterystyczne, wysokie obuwie metalowców. Zaprojektowane jako buty robocze glany, jedynie w obrębie subkultury funkcjonują jako obuwie codzienne. W połączeniu z czarnym strojem, stanowią bazę stylu heavymetalowego.
+
+
+\begin{table}[!htb]
 \begin{tabular}{ m{23em} | m{5em} } 
 \textbf{Co jest charakterystyczne dla wyglądu zewnętrznego metalowca?} & Liczba odpowiedzi \\
 \hline
@@ -216,13 +325,24 @@ jeans & 4 \\
 plecak kostka & 4 \\
 zarost & 2 \\
 \end{tabular} 
-\caption{Pyt. 4. Co Pana/Pani zdaniem jest charakterystyczne dla wyglądu zewnętrznego metalowca?}
-\label{table:1}
+\caption{Co jest charakterystyczne dla wyglądu zewnętrznego metalowca? -- najczęstsze odpowiedzi}
+\label{table:2}
 \end{table}
 
-Większość udzielanych odpowiedzi to elementy ubioru. Respondenci zdecydowanie rzadziej odnoszą się do charakterystycznych cech wyglądu sylwetki i urody metalowców. Spośród nich wymieniają jedynie długie włosy (38 odpowiedzi), piercing i tatuaże, które niekoniecznie uznaje się za typowe dla członków subkultury metalowej, oraz mocny makijaż i (wymieniony zaledwie 2 razy) zarost. Być może wynika to z tego, że zdaniem respondentów, to, co odróżnia metalowca wizualnie od przeciętnego człowieka, to jego strój. 
+Większość udzielanych odpowiedzi stanowią reprezentatywne elementy ubioru uczestników subkultury metalowej. Respondenci zdecydowanie rzadziej odnoszą się do charakterystycznych cech sylwetki i urody metalowców. Spośród nich wymieniają jedynie długie włosy (38 odpowiedzi), piercing i tatuaże, które niekoniecznie uznaje się za typowe dla członków subkultury metalowej, oraz mocny makijaż i (wymieniony zaledwie 2 razy) zarost. Być może wynika to z tego, że zdaniem respondentów, to, co odróżnia metalowca wizualnie od przeciętnego człowieka, to przede wszystkim jego strój. 
 
-\begin{table}
+Wydaje się, że w swoim opisie, ankietowani uwzględniali głównie metalowców płci męskiej, o czym świadczyć mogą długie włosy jako jedna z najczęściej wskazywanych cech dystynktywnych metalowców. U mężczyzn długie włosy wciąż mogą być uznawane za osobliwe -- stoją w niezgodzie z przyjętą w Polsce konwencją, a w społecznościach katolickich jawią się jako przejaw buntu i "niechęci do schematów".\footnote{http://adonai.pl/relaks/psychologia/?id=10} Według psychologicznego portalu katolickiego Adonai, ta sama fryzura u kobiet świadczy z kolei o "świadomej kobiecości"\footnote{Tamże.} i mieści się w ramach obowiązujących społecznych norm. 
+
+Tylko cztery razy pada odpowiedź, że metalowców charakteryzuje mocny makijaż, który potraktowany może zostać jako cecha reprezentatywna kobiet przynależących do analizowanej subkultury. Równie rzadko badani zwykli wspominać o plecakach tzw. kostkach oraz ubraniach wykonanych z jeansu, który stał się popularny we wszystkich środowiskach.
+
+Część ankietowanych kładła nacisk na elementy ozdobne ubioru metalowców. Wśród nich najczęściej pojawiały się ćwieki (13 odpowiedzi) oraz metalowe łańcuchy. Nieco mniejszą popularnością wśród badanych cieszyły się pieszczochy oraz naszywki z logotypami zespołów metalowych [patrz: Tabela \ref{table:2}].
+
+Zdaniem respondentów, metalowcy w życiu zawodowym wybierają różne ścieżki. 26 na 90 udzielonych na pyt. 5 odpowiedzi, zakłada, że metalowiec może podjąć się dowolnego zawodu [patrz: Tabela \ref{table:3}]. Trudne byłoby zatem jednoznaczne zdeterminowanie wyobrażenia większości respondentów na temat statusu majątkowego i/lub społecznego uczestnika subkultury metalowej. 
+
+Niemniej jednak, wielu z ankietowanych kojarzy metalowców z twórcami muzyki metalowej, w drugiej kolejności zaś z osobami pracującymi w branży informatycznej [patrz: Tabela \ref{table:3}], które można uznać za najlepiej płatne spośród wszystkich wymienianych przez respondentów stanowisk pracy. Wśród wymienianych profesji, przeważają jednak te średniodochodowe, a 6 osób stwierdza, że metalowcy to jeszcze ludzie młodzi, nie podejmujący pracy zarobkowej. Czterech ankietowanych uważa, że metalowcy to osoby o niskim statusie społecznym, posiadające status bezrobotnych.  
+
+
+\begin{table}[!tp]
 \begin{tabular}{ m{23em} | m{5em} } 
 \textbf{Jaki zawód wykonuje metalowiec?} & Liczba odpowiedzi \\
 \hline
@@ -240,11 +360,12 @@ tatuator & 2 \\
 tester gier & 2 \\
 kierowca & 2 \\
 \end{tabular} 
-\caption{Pyt. 5. Co }
+\caption{Jaki wykonuje zawód? -- najczęstsze odpowiedzi}
 \label{table:3}
 \end{table}
-
-\begin{table}
+%gwalcenie tabel i figur: [!htb]
+\newpage
+\begin{table}[!htb]
 \begin{tabular}{ m{23em} | m{5em} } 
 \textbf{Co metalowiec robi w wolnym czasie?
 } & Liczba odpowiedzi \\
@@ -262,15 +383,17 @@ nie wiem & 3 \\
 czyta książki & 1 \\
 zażywa narkotyki & 1 \\
 \end{tabular} 
-\caption{Pyt. 6. Co Pana/Pani zdaniem metalowiec robi w wolnym czasie?}
-\label{table:2}
+\caption{Co metalowiec robi w wolnym czasie? -- najczęstsze odpowiedzi}
+\label{table:4}
 \end{table}
 
-W rozumieniu respondentów, metalowcy wolny czas spędzają słuchając muzyki oraz uczestnicząc w koncertach. Wielu z nich kojarzy metalowców nie tylko z biernymi słuchaczami muzyki metalowej, ale także z jej twórcami. Dziewiętnastu ankietowanych uważa, że w czasie wolnym, metalowcy oddają się pasji grania na instrumentach i tworzenia muzyki -- aż czternastu z nich sądzi, że metalowcy doskonalą umiejętność gry na gitarze. 
-
-Na 70 przebadanych osób, jedna uważa, że fani metalu w czasie wolnym zażywają substancje psychoaktywne. 6 z nich kojarzy metalowców z imprezami, zwykle o charakterze domówki bądź imprezy plenerowej. 
+W rozumieniu respondentów, metalowcy wolny czas spędzają słuchając muzyki oraz uczestnicząc w koncertach [patrz: Tabela \ref{table:4}]. Jak wynikało także z poprzedniego pytania, wielu z nich kojarzy metalowców nie tylko z biernymi słuchaczami muzyki metalowej, ale także z jej twórcami. Dziewiętnastu ankietowanych uważa, że w czasie wolnym, metalowcy oddają się pasji grania na instrumentach i tworzenia muzyki [patrz: Tabela \ref{table:4}] -- aż czternastu z nich sądzi, że metalowcy doskonalą umiejętność gry na gitarze. Jednakże na pyt. 1, tylko 8 osób odpowiedziało, że metalowcy są muzykalni, a jeszcze mniej, że cechują się kreatywnością [patrz: Tabela \ref{table:1}].
 
 
+
+Na 70 przebadanych osób, jedna uważa, że fani metalu w czasie wolnym zażywają substancje psychoaktywne. 6 z nich kojarzy metalowców z imprezami, zwykle o charakterze domówki bądź imprezy plenerowej. Choć w wyobrażeniu sporej części grupy kontrolnej, metalowcy są zamkniętymi w sobie introwertykami [patrz: Tabela \ref{table:1}], 11 osób wierzy, że spędzają oni czas ze znajomymi -- w tym 3 osoby, które konkretnie wskazują innych metalowców jako ich bliskich [patrz: Tabela \ref{table:4}].
+
+17 proc. respondentów uważa z kolei, że przynależący do subkultury osobnicy, posiadają zróżnicowane zainteresowania i w wolnym czasie oddają się takim samym czynnościom, jak ci, którzy do niej nie należą. W ich rozumieniu, metalowcy są osobami z różnymi pasjami, które nie są wypadkową ich uczestnictwa w subkulturze metalowej.
 
 \chapter*{Zakończenie}
 \addcontentsline{toc}{chapter}{Zakończenie}
