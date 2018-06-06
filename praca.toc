@@ -7,11 +7,11 @@
 \contentsline {chapter}{\numberline {2}Wizerunek subkultury heavymetalowej w\nobreakspace {}mediach}{15}
 \contentsline {section}{\numberline {2.1}Czym jest wizerunek?}{15}
 \contentsline {section}{\numberline {2.2}Muzyka heavymetalowa i\nobreakspace {}jej fani w\nobreakspace {}mediach zagranicznych}{17}
-\contentsline {section}{\numberline {2.3}Muzyka heavymetalowa i\nobreakspace {}jej fani w\nobreakspace {}mediach polskich}{17}
-\contentsline {section}{\numberline {2.4}Heavy metal w\nobreakspace {}social media}{20}
-\contentsline {chapter}{\numberline {3}Badanie wizerunku subkultury heavymetalowej}{21}
-\contentsline {section}{\numberline {3.1}Przedmiot bada\IeC {\'n} i\nobreakspace {}cele badawcze}{21}
-\contentsline {section}{\numberline {3.2}Metody i\nobreakspace {}narz\IeC {\k e}dzia badawcze}{21}
-\contentsline {section}{\numberline {3.3}Analiza wynik\IeC {\'o}w badania}{22}
-\contentsline {chapter}{Zako\IeC {\'n}czenie}{30}
-\contentsline {chapter}{Bibliografia}{31}
+\contentsline {section}{\numberline {2.3}Muzyka heavymetalowa i\nobreakspace {}jej fani w\nobreakspace {}mediach polskich}{19}
+\contentsline {section}{\numberline {2.4}Heavy metal w\nobreakspace {}mediach spo\IeC {\l }eczno\IeC {\'s}ciowych}{22}
+\contentsline {chapter}{\numberline {3}Badanie wizerunku subkultury heavymetalowej}{25}
+\contentsline {section}{\numberline {3.1}Przedmiot bada\IeC {\'n} i\nobreakspace {}cele badawcze}{25}
+\contentsline {section}{\numberline {3.2}Metody i\nobreakspace {}narz\IeC {\k e}dzia badawcze}{25}
+\contentsline {section}{\numberline {3.3}Analiza wynik\IeC {\'o}w badania}{26}
+\contentsline {chapter}{Zako\IeC {\'n}czenie}{36}
+\contentsline {chapter}{Bibliografia}{37}

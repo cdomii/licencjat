@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  3 JUN 2018 01:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  6 JUN 2018 02:10
 entering extended mode
 **./praca.tex
 (praca.tex
@@ -917,21 +917,21 @@ File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
 ))) (praca.aux)
 \openout1 = `praca.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 21.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
@@ -1034,41 +1034,35 @@ G,.JBIG2,.JB2,.eps]
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.16}).
 
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 28.
-LaTeX Font Info:    Try loading font information for OML+plm on input line 28.
-(C:\Users\Dominika\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omlplm.fd
-File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
-)
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 28.
-
-
-(C:\Users\Dominika\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omsplsy.fd
-File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
-)
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 28.
-
-
-(C:\Users\Dominika\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omxplex.fd
-File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
-)
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <14.4> on input line 28.
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10> on input line 28.
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <7> on input line 28.
-
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 30.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 42.
 [1
 
 
 {C:/Users/Dominika/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 29.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 45.
 
 (praca.toc
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Try loading font information for OML+plm on input line 3.
+
+(C:\Users\Dominika\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omlplm.fd
+File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 3.
+
+(C:\Users\Dominika\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omsplsy.fd
+File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 3.
+
+(C:\Users\Dominika\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omxplex.fd
+File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <12> on input line 3.
 LaTeX Font Info:    External font `plex10' loaded for size
@@ -1079,51 +1073,136 @@ LaTeX Font Info:    External font `plex10' loaded for size
 \tf@toc=\write4
 \openout4 = `praca.toc'.
 
- [1
+
+[1
 
 ] [2
 
 ]
 Rozdzia\PlPrIeC {\l } 1.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 38.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <5> on input line 39.
+(Font)              <10> on input line 62.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <7> on input line 62.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <5> on input line 62.
 [3
 
-] [4] [5] [6]
-Overfull \hbox (7.00325pt too wide) in paragraph at lines 82--83
+] [4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[][]\T1/ptm/m/n/10 M. Wa-ga, \T1/ptm/m/it/10 Jak ci¦ wi-dz¡, tak ci¦ pi-sz¡... 
+-- czy-li o me-ta-low-cach, \T1/ptm/m/n/10 www.epiotrkow.pl/
+ []
+
+[6]
+Overfull \hbox (7.00325pt too wide) in paragraph at lines 105--106
 []\T1/ptm/m/n/12 Charakterystyczne dla kon-cer-tów he-avy-me-ta-lo-wych s¡ po-d
 ej-mo-wa-ne przez ich uczest-
  []
 
-[7] [8] [9] [10] [11] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
-\T1/ptm/m/n/10 https://www.antyradio.pl/Muzyka/Rock-News/31-najlepszych-polskic
-h-zespolow-wedlug-zagranicznego-
+[7] [8]
+Overfull \hbox (17.89403pt too wide) in paragraph at lines 117--117
+[][]\T1/ptm/m/n/10 Hasªo: He-avy me-tal, [w:] Cam-brid-ge Dic-tio-na-ry, https:
+//dictionary.cambridge.org/dictionary/english/heavy-
+ []
+
+[9] [10] [11] [12]
+Underfull \hbox (badness 4467) in paragraph at lines 154--154
+[][]\T1/ptm/m/n/10 R. San-kow-ski, \T1/ptm/m/it/10 Oto Pol-ska na me-tal. Jak V
+a-der i in-ni zdo-by-li ±wiat, \T1/ptm/m/n/10 http://wyborcza.pl/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+\T1/ptm/m/n/10 1,75410,16096652,Oto_-Pol-ska_-na_-me-tal_-_-Jak_-Va-der_-i_-in-
+ni_-zdo-by-li_-swiat.html, do-st¦p z dn.
  []
 
 [13] [14]
 Rozdzia\PlPrIeC {\l } 2.
 [15
 
-] [16] [17] [18]
-Underfull \hbox (badness 3514) in paragraph at lines 166--166
-[][]\T1/ptm/m/n/10 M. Chu-dzik, \T1/ptm/m/it/10 Wi-zy-ta w pol-skim Li-ver-po-o
-lu. Ra-dek Chmiel -- ki-bic ro-ku.\T1/ptm/m/n/10 , do-st¦p-ne przez:
+] [16]
+Underfull \hbox (badness 2103) in paragraph at lines 172--172
+[][]\T1/ptm/m/n/10 S. Knap-ton, \T1/ptm/m/it/10 Young he-avy me-tal fans fi-ve 
+ti-mes mo-re li-ke-ly to self-harm or at-tempt su-ici-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
-\T1/ptm/m/n/10 https://sportowefakty.wp.pl/pilka-nozna/752208/wizyta-w-polskim-
-liverpoolu-radek-chmiel-kibic-roku,
+Underfull \hbox (badness 3386) in paragraph at lines 172--172
+\T1/ptm/m/it/10 de\T1/ptm/m/n/10 , https://www.telegraph.co.uk/science/2018/04/
+04/young-heavy-metal-fans-five-times-likely-self-harm-
  []
 
-[19] [20]
+
+Underfull \hbox (badness 7595) in paragraph at lines 172--172
+[][]\T1/ptm/m/it/10 Young He-avy Me-tal Fans Are At In-cre-ased Risk Of Su-ici-
+de, Self-Harm, Stu-dy Finds
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+\T1/ptm/m/n/10 http://www.blabbermouth.net/news/young-heavy-metal-fans-are-at-i
+ncreased-risk-of-suicide-self-harm-
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 174--174
+[][]\T1/ptm/m/n/10 L. Cahn,\T1/ptm/m/it/10 Why Li-ste-ning to He-avy Me-tal Mu-
+sic Can Ac-tu-al-ly Ma-ke You Cal-merSeriously\T1/ptm/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 174--174
+[][]\T1/ptm/m/n/10 K. Kel-ly, \T1/ptm/m/it/10 Spo-ti-fy Just Di-sco-ve-red That
+ He-avy Me-tal Is Mo-re Po-pu-lar Than Pop Mu-sic\T1/ptm/m/n/10 ,
+ []
+
+[17]
+Underfull \hbox (badness 3250) in paragraph at lines 180--180
+[][]\T1/ptm/m/n/10 J. Co-chra-ne, \T1/ptm/m/it/10 In In-do-ne-sia, 3 Mu-slim Gi
+rls Fi-ght for The-ir Ri-ght to Play He-avy Me-tal\T1/ptm/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 180--180
+\T1/ptm/m/n/10 https://www.nytimes.com/2017/09/02/world/asia/indonesia-voice-of
+-baceprot-girls-heavy-metal.html, do-
+ []
+
+[18] [19] [20]
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
+[][]\T1/ptm/m/it/10 Szokuj¡ce od-kry-cie: He-avy Me-tal spra-wia, »e je-ste-±my
+ szcz¦-±liw-si,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
+\T1/ptm/m/n/10 https://kultura.onet.pl/muzyka/gatunki/metal/szokujace-odkrycie-
+heavy-metal-sprawia-ze-jestesmy-
+ []
+
+[21] [22]
+<./img/mem.jpg, id=80, 1084.05pt x 1084.05pt>
+File: ./img/mem.jpg Graphic file (type jpg)
+<use ./img/mem.jpg>
+Package pdftex.def Info: ./img/mem.jpg  used on input line 218. on input line 2
+18.
+Package pdftex.def Info: Requested size: 277.41176pt x 277.4133pt on input line
+ 218.
+ [23 <./img/mem.jpg>]
+<./img/mem2.jpg, id=84, 321.2pt x 321.2pt>
+File: ./img/mem2.jpg Graphic file (type jpg)
+<use ./img/mem2.jpg>
+Package pdftex.def Info: ./img/mem2.jpg  used on input line 230. on input line 
+230.
+Package pdftex.def Info: Requested size: 264.60855pt x 264.61589pt on input lin
+e 230.
+ [24 <./img/mem2.jpg>]
 Rozdzia\PlPrIeC {\l } 3.
-[21
+[25
 
-] [22]
+] [26]
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -1140,14 +1219,19 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no ! in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-Package pgfplots info on input line 237: Using 'lua backend=false' for axis: x 
+Package pgfplots info on input line 287: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
- [23]
-Underfull \hbox (badness 10000) in paragraph at lines 255--256
+ [27]
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
 []|\T1/ptm/m/n/12 Liczba
  []
 
-[24] [25]
+[28] [29]
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+[]|\T1/ptm/m/n/12 Liczba
+ []
+
+[30]
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -1172,48 +1256,48 @@ Missing character: There is no ! in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
 []|\T1/ptm/m/n/12 Liczba
  []
 
 
-Overfull \hbox (7.89107pt too wide) in paragraph at lines 332--333
+Overfull \hbox (7.89107pt too wide) in paragraph at lines 406--407
 []\T1/ptm/m/n/12 Wi¦kszo±¢ udzie-la-nych od-po-wie-dzi sta-no-wi¡ re-pre-zen-ta
 -tyw-ne ele-men-ty ubio-ru uczest-
  []
 
-[26] [27]
-Underfull \hbox (badness 10000) in paragraph at lines 347--348
+[31] [32]
+Underfull \hbox (badness 10000) in paragraph at lines 421--422
 []|\T1/ptm/m/n/12 Liczba
  []
 
-[28]
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
 []|\T1/ptm/m/n/12 Liczba
  []
 
-[29] [30
+[34] [35] [36
 
-] [31
+] [37
 
 ] (praca.aux) ) 
 Here is how much of TeX's memory you used:
- 23396 strings out of 493312
- 601262 string characters out of 3138891
- 784470 words of memory out of 3000000
- 26496 multiletter control sequences out of 15000+200000
- 48446 words of font info for 63 fonts, out of 3000000 for 9000
+ 23405 strings out of 493312
+ 601363 string characters out of 3138891
+ 785470 words of memory out of 3000000
+ 26502 multiletter control sequences out of 15000+200000
+ 44568 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,11n,136p,2163b,2127s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 78i,11n,136p,1921b,2127s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Dominika/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl
 /plrm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/Do
 minika/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plr12.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on praca.pdf (32 pages, 150805 bytes).
+Output written on praca.pdf (38 pages, 303245 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
+ 149 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
